@@ -3,9 +3,11 @@
 }
 .h1{
     color: aqua;
+    background-color: darkmagenta;
 }
 .h3{
     color: red;
+    background-color: brown;
 }
 #pink{
     color: rgb(239, 7, 85);
