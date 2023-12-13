@@ -6,8 +6,8 @@ h1{
     background-color: darkmagenta;
 }
 h3{
-    color: red;
-    background-color: brown;
+    color: rgb(6, 6, 6);
+    background-color: rgb(228, 130, 174);
 }
 #pink{
     color: rgb(239, 7, 85);
