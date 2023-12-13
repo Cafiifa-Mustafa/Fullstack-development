@@ -1,3 +1,12 @@
+*{
+    background-color: bisque;
+}
+.h1{
+    color: aqua;
+}
+.h3{
+    color: red;
+}
 #pink{
     color: rgb(239, 7, 85);
 }
