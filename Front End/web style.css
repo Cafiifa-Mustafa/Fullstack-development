@@ -7,7 +7,7 @@ h1{
 }
 .box{
     box-sizing: content-box;
-    background-color: black;
+    background-color: rgb(225, 15, 15);
     padding: 2px;
 }
 .poster {
