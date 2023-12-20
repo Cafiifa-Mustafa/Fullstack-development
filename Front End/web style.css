@@ -1,19 +1,24 @@
 body{
-    background-color: black;
+    background-image: 10%;
 }
 h1{
     text-transform: uppercase;
-    font-size: 3rem;
+    font-size: 1rem;
 }
 .poster {
     width: 50%;
     margin-left: 25%;
-    margin-top: 100px;
-    color: white;
+    margin-top: 50px;
+    color: rgb(14, 52, 241);
     font-family: "libre Baskerville", serif;
     text-align: center;
 }
 .motivation{
-    border: 10px solid whitesmoke;
-    width: 100%;
+    border-top: 5px solid green;
+    border-left: 5px solid rgb(3, 3, 3);
+    border-right: 5px solid red;
+    border-bottom: 5px solid blue;
+    width: 50%;
+    height: 50%;
+
 }
