@@ -6,7 +6,8 @@ h1{
     font-size: 1rem;
 }
 .box{
-    box-sizing: content-box;
+    box-sizing: border-box;
+    margin: auto;
     background-color: rgb(225, 15, 15);
     padding: 2px;
 }
