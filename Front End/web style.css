@@ -13,3 +13,7 @@ h1{
     font-family: "libre Baskerville", serif;
     text-align: center;
 }
+.motivation{
+    border: 10px solid whitesmoke;
+    width: 100%;
+}
