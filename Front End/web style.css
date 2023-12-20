@@ -19,10 +19,8 @@ h1{
     text-align: center;
 }
 .motivation{
-    border-top: 5px solid rgb(242, 244, 242);
-    border-left: 5px solid rgb(244, 242, 242);
-    border-right: 5px solid rgb(249, 247, 247);
-    border-bottom: 5px solid rgb(246, 246, 247);
+    border: 5px solid black;
+
     width: 50%;
     height: 50%;
 
