@@ -9,7 +9,7 @@ h1{
     box-sizing: border-box;
     margin: 10px;
     background-color: rgb(225, 15, 15);
-    padding: 2px;
+    padding: 10px;
 }
 .poster {
     width: 50%;
