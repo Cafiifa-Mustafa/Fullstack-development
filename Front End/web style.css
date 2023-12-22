@@ -1,5 +1,6 @@
 body{
     background-color: aliceblue;
+    background-size: cover;
 }
 h1{
     text-transform: uppercase;
