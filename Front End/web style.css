@@ -5,6 +5,7 @@ body{
 h1{
     text-transform: uppercase;
     font-size: 1pt;
+    font-family: display;
 }
 .box{
     box-sizing: border-box;
