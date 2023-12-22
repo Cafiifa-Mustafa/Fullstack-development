@@ -3,7 +3,7 @@ body{
 }
 h1{
     text-transform: uppercase;
-    font-size: 1rem;
+    font-size: 1pt;
 }
 .box{
     box-sizing: border-box;
