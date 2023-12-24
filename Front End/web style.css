@@ -9,5 +9,5 @@ h1{
 }
 header {
     background-color: aqua;
-    
+    background-repeat: calc(1);
 }
