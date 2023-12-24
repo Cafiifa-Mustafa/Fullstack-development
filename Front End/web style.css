@@ -1,31 +1,9 @@
 body{
-    background-color: aliceblue;
+    background-color: rgb(14, 133, 237);
     background-size: cover;
 }
 h1{
     text-transform: uppercase;
-    font-size: 1pt;
+    font-size: 20px;
     font-family: display;
-}
-.box{
-    box-sizing: border-box;
-    margin: 10px;
-    background-color: rgb(225, 15, 15);
-    padding: 10px;
-}
-.poster {
-    width: 50%;
-    margin-left: 25%;
-    margin-top: 50px;
-    color: rgb(246, 246, 248);
-    font-family: "libre Baskerville", serif;
-    text-align: center;
-}
-.motivation{
-    border: 5px solid black;
-    padding: 20px;
-    margin: 10px;
-    width: 50%;
-    height: 50%;
-
 }
