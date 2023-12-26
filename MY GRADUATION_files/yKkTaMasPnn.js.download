@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("ContentAccessAndControlEventType",[],(function(a,b,c,d,e,f){a=Object.freeze({CLICK_BEGIN:"content_access_and_control_click_begin",CLICK_CANCEL:"content_access_and_control_click_cancel",CLICK_CONFIRM:"content_access_and_control_click_confirm",IMPRESSION:"content_access_and_control_impression",ENT_STORY_ACTION:"content_access_and_control_ent_story_action",SERVER_MUTATION_BEGIN:"content_access_and_control_mutation_begin",SERVER_MUTATION_FAILURE:"content_access_and_control_mutation_failure",SERVER_MUTATION_SUCCESS:"content_access_and_control_mutation_success"});f["default"]=a}),66);

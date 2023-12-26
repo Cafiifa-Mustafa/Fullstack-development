@@ -1,0 +1,5 @@
+;/*FB_PKG_DELIM*/
+
+__d("CometUFIAutoMentionReplyConfigContext",["react"],(function(a,b,c,d,e,f,g){"use strict";var h;a=h||d("react");b=a.createContext({autoMentionReplyConfig:null});g["default"]=b}),98);
+__d("CometUFIHideCommentActionContext",["emptyFunction","react"],(function(a,b,c,d,e,f,g){"use strict";var h;a=h||d("react");b=a.createContext({hasHideCommentAction:!1,setHasHideCommentAction:c("emptyFunction")});g["default"]=b}),98);
+__d("CometUFICommentAPIContext",["react"],(function(a,b,c,d,e,f,g){"use strict";var h;a=h||d("react");b=a.createContext({hasScenario:!1});g.CometUFICommentAPIContext=b}),98);
