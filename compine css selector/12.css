@@ -7,4 +7,6 @@ h1 ,h2{
 
 .box li {
     color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
 }
