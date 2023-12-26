@@ -1,7 +1,7 @@
 h1 ,h2{
     color: blueviolet;
     font-family: 'Courier New', Courier, monospace;
-    
+    font-weight: bolder;
 }
 .box p {
     color: firebrick;
