@@ -12,3 +12,8 @@ h1 ,h2{
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
 }
+.progress {
+    color: firebrick;
+    font-size: 3em;
+    background-color: #000;
+}
