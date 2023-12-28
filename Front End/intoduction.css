@@ -30,6 +30,7 @@ h3{
 img{
     height: 200pt;
     width: 200pt;
+    transition: all;
 }
 #pixel{
     font-size: 10px;
