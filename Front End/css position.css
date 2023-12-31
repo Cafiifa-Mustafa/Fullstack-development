@@ -7,4 +7,6 @@
     left: 50px;
     width: 200px;
     height: 200px;
+    background-color: black;
+    border: 2px solid green;
 }
