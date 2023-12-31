@@ -35,7 +35,6 @@
 }
 
 
-
 .fixed {
     position: fixed;
     top: 50px;
@@ -52,4 +51,14 @@
 div{
     outline: 1px solid #036cdb! important;
     display: block;
+}
+
+.exercise{
+    position: relative;
+    top: 50px;
+    left: 50px;
+    width: 200px;
+    height: 200px;
+    background-color: #000;
+    border: 2px solid green;
 }
