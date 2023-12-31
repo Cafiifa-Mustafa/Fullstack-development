@@ -20,7 +20,7 @@
     border-radius: 50%;
     background-color: rgb(252, 248, 248);
     border: 2px solid green;
-    z-index: -10;
+    
 }
 
 .relative {
