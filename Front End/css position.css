@@ -10,7 +10,7 @@
     background-color: black;
     border: 2px solid green;
     padding-left: 100px;
-    padding-top: 10 0px;
+    padding-top: 100px;
 }
 
 .relative {
@@ -22,7 +22,7 @@
     background-color: black;
     border: 2px solid green;
     padding-left: 100px;
-    padding-top: 10 0px;
+    padding-top: 100px;
 }
 
 .absolute {
@@ -34,7 +34,7 @@
     background-color: rgb(207, 103, 103);
     border: 2px solid green;
     padding-left: 100px;
-    padding-top: 10 0px;
+    padding-top: 100px;
 }
 
 .fixed {
