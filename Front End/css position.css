@@ -42,6 +42,7 @@
     left: 50px;
     width: 200px;
     height: 200px;
+    border-radius: 50%;
     background-color: rgb(111, 248, 171);
     border: 2px solid green;
     z-index: -10;
