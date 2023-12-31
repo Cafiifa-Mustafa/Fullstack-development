@@ -1,6 +1,15 @@
 /*this lesson talking about css position
 
 1 static position*/
+.absolute {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(207, 103, 103);
+    border: 2px solid green;
+}
 .static {
     position: static;
     top: 50px;
@@ -23,15 +32,7 @@
     z-index: -10;
 }
 
-.absolute {
-    position: absolute;
-    top: 50px;
-    left: 50px;
-    width: 100px;
-    height: 100px;
-    background-color: rgb(207, 103, 103);
-    border: 2px solid green;
-}
+
 
 .fixed {
     position: fixed;
