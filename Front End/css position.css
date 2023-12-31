@@ -27,8 +27,8 @@
 
 .absolute {
     position: absolute;
-    top: 50px;
-    left: 50px;
+    top: 100px;
+    left: 100px;
     width: 100px;
     height: 100px;
     background-color: rgb(207, 103, 103);
