@@ -58,8 +58,7 @@ div{
     top: 200px;
     left: 200px;
     width: 500px;
-    height: 300px;
-    bottom: 100px;
-    background-color: #000;
+    height: 200px;
+    background-color: #21f809;
     border: 2px solid green;
 }
