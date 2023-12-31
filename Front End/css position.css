@@ -40,3 +40,7 @@
     background-color: rgb(111, 248, 171);
     border: 2px solid green;
 }
+
+div{
+    outline: 1px solid #036cdb! important;
+}
