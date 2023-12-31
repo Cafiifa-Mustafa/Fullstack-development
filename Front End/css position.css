@@ -40,6 +40,9 @@
     height: 200px;
     background-color: rgb(111, 248, 171);
     border: 2px solid green;
+    z-index: -10;
+    
+
 }
 
 div{
