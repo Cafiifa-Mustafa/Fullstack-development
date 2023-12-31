@@ -43,4 +43,5 @@
 
 div{
     outline: 1px solid #036cdb! important;
+    display: block;
 }
