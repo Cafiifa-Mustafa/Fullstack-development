@@ -11,5 +11,16 @@
     border: 2px solid green;
     padding-left: 100px;
     padding-top: 10 0px;
+}
 
+.relative {
+    position: relative;
+    top: 50px;
+    left: 50px;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border: 2px solid green;
+    padding-left: 100px;
+    padding-top: 10 0px;
 }
