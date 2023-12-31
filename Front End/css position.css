@@ -1,3 +1,8 @@
 /*this lesson talking about css position
 
 1 static position*/
+.static {
+    position: static;
+    top: 50px;
+    left: 50px;
+}
