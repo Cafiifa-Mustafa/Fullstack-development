@@ -1,4 +1,11 @@
 .flag{
     width: 900px;
     height: 600px;
+    background-color: red;
+}
+
+.flag > dev {
+    width: 100%;
+    height: 300px;
+    background-color: #002868;
 }
