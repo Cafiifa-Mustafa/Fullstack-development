@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open css flag.html",
+            "file": "c:\\Users\\EASYWAY TECH CENTER\\OneDrive\\Desktop\\Fullstack development\\Front End\\css flag.html"
+        }
+    ]
+}
