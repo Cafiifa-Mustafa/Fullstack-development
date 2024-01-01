@@ -8,4 +8,11 @@
     width: 100%;
     height: 300px;
     background-color: #002868;
+    top: 150px;
+}
+.flag > div >div {
+    width: 200px;
+    height: 200px;
+    background-color: #fff;
+
 }
