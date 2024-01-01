@@ -14,5 +14,8 @@
     width: 200px;
     height: 200px;
     background-color: #fff;
+    border-radius: 50%;
+    position: relative;
+    top: 50px;
 
 }
